@@ -10,7 +10,10 @@
   "scripts": {
     "test": "mocha -R spec"
   },
-  "repository": "",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/RobZolkos/securerandom.git"
+  },
   "keywords": [
     "securerandom",
     "hex"
