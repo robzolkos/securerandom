@@ -10,14 +10,17 @@
   "scripts": {
     "test": "mocha -R spec"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/RobZolkos/securerandom.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobZolkos/securerandom.git"
   },
   "keywords": [
     "securerandom",
     "hex"
   ],
   "author": "Rob Zolkos <robzolkos@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  }
 }
