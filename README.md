@@ -4,9 +4,11 @@ This makes a random hex string.  It functions similar to the SecureRandom.hex me
 
 ## Usage
 
+```
 var SecureRandom = require('securerandom');
 
-concole.log(SecureRandom.hex(12)); // prints a random 12 byte string
+console.log(SecureRandom.hex(12)); // prints a random 12 byte string
+```
 
 ## Tests
 
