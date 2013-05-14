@@ -1,6 +1,6 @@
 {
   "name": "securerandom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A random string generator",
   "main": "index.js",
   "directories": {
