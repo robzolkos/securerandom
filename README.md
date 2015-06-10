@@ -1,6 +1,6 @@
 # SecureRandom
 
-![Build Status](https://travis-ci.org/robzolkos/securerandom.png?branch=master)
+[![Build Status](https://travis-ci.org/robzolkos/securerandom.svg?branch=master)](https://travis-ci.org/robzolkos/securerandom)
 ![CodeClimate](https://codeclimate.com/github/RobZolkos/securerandom.png)
 
 This makes a random hex string.  It functions similar to the SecureRandom.hex method in Ruby.
